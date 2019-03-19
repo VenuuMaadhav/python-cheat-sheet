@@ -19,16 +19,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google style guide</a> and use 'Ctrl+Alt+L' / '⌥⌘L' shortcut in PyCharm to automatically reformat code.
 </details><br>
 
+<details open><summary><strong>Why are import statement, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future, or I will make a separate cheatsheet about features important for the production.
+</details><br>
+
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Same reason as why are there no SQL examples; They are both separate concepts that are independent of Python and both have a ton of resources available online.
 </details><br>
 
 <details open><summary><strong>What is a '&lt;view&gt;' in dictionary section?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;It's one of dict_keys / dict_values / dict_items special objects, that reflects changes in the dictionary and are iterable, but not indexable.
-</details><br>
-
-<details open><summary><strong>Why are import statement, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future, or I will make a separate cheatsheet about features important for the production.
 </details><br>
 
 <details open><summary><strong>Why is there no old style string formating?</strong></summary><br>
