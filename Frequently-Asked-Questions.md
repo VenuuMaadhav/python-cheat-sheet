@@ -5,7 +5,7 @@
 <details open><summary><strong>What is the best way to use it?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;I keep the text file open on separate desktop at all times. It is also in a different text editor than the one I usually use, so it's easier to switch to with '⌘↹' / 'Ctrl+↹'. Cheatsheet consists of minimal text and short examples so things are easy to find with '⌘F' / 'Ctrl+F'.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Also I keep the Python console open at all times, to test a little snippets of code, to check out the available functions of a module using code completion and above all, to use 'help(<module/object/function>)' command. If something is still unclear, then I search the Python docs by googling 'python docs <module/function>'.
-</details>
+</details><br>
 
 <details open><summary><strong>Why doesn't page load if JavaScript is disabled?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;JavaScript is used to convert README.md file to HTML every time the page is accessed. I will make the page static in the future.
