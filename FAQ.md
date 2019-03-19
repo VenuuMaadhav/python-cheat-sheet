@@ -1,5 +1,3 @@
-# Frequently Asked Questions
-
 <details open><summary><strong>Python 2 or Python 3?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Python 3.6
 </details><br>
