@@ -20,6 +20,10 @@
 </details><br>
 
 <details open><summary><strong>Why are import statement, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;It will be in the future.
+</details><br>
+
+<details open><summary><strong>Why is asincio not covered?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future, or I will make a separate cheatsheet about features important for the production.
 </details><br>
 
