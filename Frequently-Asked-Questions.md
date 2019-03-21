@@ -4,7 +4,7 @@
 
 <details open><summary><strong>What is the best way to use it?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;I keep the text file open on separate desktop at all times. It is also in a different text editor than the one I usually use, so it's easier to switch to with <code>Ctrl+↹</code> / <code>⌘↹</code>. Cheatsheet consists of minimal text and short examples so things are easy to find with <code>Ctrl+F</code> / <code>⌘F</code>.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Also I keep the Python console open at all times, to test a little snippets of code, to check out the available functions of a module using code completion and above all, to use <code>help(&lt;module/object/function/type&gt;)</code> command. If something is still unclear, then I search the Python docs by googling <code>'python docs &lt;module/function&gt;'</code>.
+&nbsp;&nbsp;&nbsp;&nbsp;I also keep the Python console open at all times, to test a little snippets of code, to check out the available functions of a module using code completion and above all, to use <code>help(&lt;module/object/function/type&gt;)</code> command. If something is still unclear, then I search the Python docs by googling <code>'python docs &lt;module/function&gt;'</code>.
 </details><br>
 
 <details open><summary><strong>Why doesn't page load if JavaScript is disabled?</strong></summary><br>
