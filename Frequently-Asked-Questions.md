@@ -16,7 +16,7 @@
 </details><br>
 
 <details open><summary><strong>What about PEP 8?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google style guide</a> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
+&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google Style Guide</a> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
 </details><br>
 
 <details open><summary><strong>Why are import statement, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
