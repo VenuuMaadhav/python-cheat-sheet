@@ -31,10 +31,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Same reason as why are there no SQL examples; They are both separate concepts that are independent of Python and both have a ton of resources available online.
 </details><br>
 
-<details open><summary><strong>What is a '&lt;view&gt;' in dictionary section?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;It's one of dict_keys / dict_values / dict_items special objects, that reflects changes in the dictionary and are iterable, but not indexable.
-</details><br>
-
 <details open><summary><strong>Why is there no old style string formating?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Because it's redundant and I don't want to encourage its use.
 </details><br>
