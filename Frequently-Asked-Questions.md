@@ -7,10 +7,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I also keep the Python console open at all times, to test a little snippets of code, to check out the available functions of a module using code completion and above all, to use <code>help(&lt;module/object/function/type&gt;)</code> command. If something is still unclear, then I search the Python docs by googling <code>'python docs &lt;module/function&gt;'</code>.
 </details><br>
 
-<details open><summary><strong>Why doesn't page load if JavaScript is disabled?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;JavaScript is used to convert README.md file to HTML every time the page is accessed. I will make the page static in the future.
-</details><br>
-
 <details open><summary><strong>Why the '&lt;type&gt;' semantics?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;It makes examples much less ambiguous.
 </details><br>
