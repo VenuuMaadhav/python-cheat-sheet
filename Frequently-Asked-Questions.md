@@ -11,6 +11,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;It makes examples much less ambiguous.
 </details><br>
 
+<details open><summary><strong>Why are some basics like <code>'&lt;list&gt; = [1, 2, 3]'</code> and <code>'&lt;el&gt; = &lt;list&gt;[&lt;int&gt;]'</code> missing?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;This cheatsheet is not intended for complete beginners. This way it can save some valuable space. Nonetheless it tries to be simple enough to be useful for somebody who completed the introductory course.
+</details><br>
+
 <details open><summary><strong>What about PEP 8?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google Style Guide</a> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
 </details><br>
