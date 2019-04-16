@@ -15,6 +15,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;This cheatsheet is not intended for complete beginners. This way it can save some valuable space. Nonetheless it tries to be simple enough to be useful for somebody who completed the introductory course.
 </details><br>
 
+<details open><summary><strong>What exactly is <code>&lt;el&gt;</code>?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;El is short for element and can be any object, but it usually denotes an object that is an item of a collection.
+</details><br>
+
+<details open><summary><strong>What exactly is <code>&lt;collection&gt;</code>?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Collection is my name for iterable object. An iterable object in Python is an object has at least one of iter() or getitem() special methods defined. Iter() returns an iterator and <code>getitem(&lt;index&gt;)</code> returns an item at that index. I chose not to use the name iterable because it sounds scarier and more vague than collection, even though it has a precise definition.<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<code>&lt;iterable&gt;</code> and <code>&lt;collection&gt;</code> should not be confused with abstract base classes collections.abc.Iterable and collections.abc.Collection. Expression <code>instanceof(&lt;object&gt;, Iterable)</code> only checks if object has iter() special method and <code>instanceof(&lt;object&gt;, Collection)</code> checks for len(), iter() and contains().
+</details><br>
+
 <details open><summary><strong>What about PEP 8?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google Style Guide</a> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
 </details><br>
