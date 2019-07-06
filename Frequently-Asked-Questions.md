@@ -44,3 +44,7 @@
 <details open><summary><strong>Why is there no old style string formating?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Because it's redundant and I don't want to encourage its use.
 </details><br>
+
+<details open><summary><strong>Why is @staticmethod not covered in Class section?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Because it's of very limited use and is easy to mix up with @classmethod.
+</details><br>
