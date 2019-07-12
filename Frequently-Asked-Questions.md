@@ -34,7 +34,7 @@
 </details><br>
 
 <details open><summary><strong>Why is Asyncio not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;It's coming soon.
+&nbsp;&nbsp;&nbsp;&nbsp;Maybe it will be added in the future.
 </details><br>
 
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
