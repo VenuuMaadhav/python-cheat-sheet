@@ -30,7 +30,7 @@
 </details><br>
 
 <details open><summary><strong>Why are import statement, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future, or I will make a separate cheatsheet about features important for the production.
+&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of mentioned topics.
 </details><br>
 
 <details open><summary><strong>Why is Asyncio not covered?</strong></summary><br>
