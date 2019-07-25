@@ -38,7 +38,7 @@
 </details><br>
 
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Same reason as why are there no SQL examples; They are both separate technologies that are independent from Python and both have a ton of resources available online.
+&nbsp;&nbsp;&nbsp;&nbsp;They are a separate technology that is independent from Python and has a ton of resources available online.
 </details><br>
 
 <details open><summary><strong>Why is there no old style string formating?</strong></summary><br>
