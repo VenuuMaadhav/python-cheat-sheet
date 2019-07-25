@@ -38,7 +38,7 @@
 </details><br>
 
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;They are a separate technology that is independent from Python and has a ton of resources available online.
+&nbsp;&nbsp;&nbsp;&nbsp;Regular expressions are a separate technology that is independent from Python. There are many resources available online.
 </details><br>
 
 <details open><summary><strong>Why is there no old style string formating?</strong></summary><br>
