@@ -33,10 +33,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of mentioned topics.
 </details><br>
 
-<details open><summary><strong>Why is Asyncio not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Maybe it will be added in the future.
-</details><br>
-
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Regular expressions are a separate technology that is independent from Python. There are many resources available online.
 </details><br>
