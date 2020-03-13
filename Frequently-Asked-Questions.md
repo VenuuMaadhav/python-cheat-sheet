@@ -1,5 +1,5 @@
 <details open><summary><strong>Python 2 or Python 3?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Python 3.6 (Except for Dataclasses and asyncio that require version 3.7 and the walrus operator that requires version 3.8).
+&nbsp;&nbsp;&nbsp;&nbsp;Python 3.6 (Except for Dataclasses and asyncio that require version 3.7).
 </details><br>
 
 <details open><summary><strong>What is the best way to use it?</strong></summary><br>
