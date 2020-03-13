@@ -29,7 +29,7 @@
 </details><br>
 
 <details open><summary><strong>Why are Django and Pandas not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future. For now here is a nice <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf">Django cheatsheet</a>.
+&nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future. For now here is a nice <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/django.jpg">Django cheatsheet</a>.
 </details><br>
 
 <details open><summary><strong>Why are import statement, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
