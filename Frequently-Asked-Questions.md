@@ -12,7 +12,7 @@
 </details><br>
 
 <details open><summary><strong>Why are some basics like <code>'&lt;list&gt; = [1, 2, 3]'</code> and <code>'&lt;el&gt; = &lt;list&gt;[&lt;int&gt;]'</code> missing?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;This cheatsheet is not intended for complete beginners. This way it can save some valuable space. Nonetheless it tries to be simple enough to be useful for somebody who completed the introductory course. A nice one page cheatsheet that can help can be found <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf">here</a>.</details><br>
+&nbsp;&nbsp;&nbsp;&nbsp;This cheatsheet is not intended for complete beginners. This way it can save some valuable space. Nonetheless it tries to be simple enough to be useful for somebody who completed the introductory course. A nice one page cheatsheet that can help you get started can be found <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf">here</a>.</details><br>
 
 <details open><summary><strong>What exactly is <code>&lt;el&gt;</code>?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;El is short for element and can be any object, but it usually denotes an object that is an item of a collection.
