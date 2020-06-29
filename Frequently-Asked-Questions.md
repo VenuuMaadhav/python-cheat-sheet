@@ -45,7 +45,7 @@
 </details><br>
 
 <details open><summary><strong>Why is there no old style string formating?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Because it's redundant and I don't want to encourage its use.
+&nbsp;&nbsp;&nbsp;&nbsp;Because it is redundant and I don't want to encourage its use.
 </details><br>
 
 <details open><summary><strong>Why is staticmethod decorator not covered in Class section?</strong></summary><br>
@@ -53,5 +53,5 @@
 </details><br>
 
 <details open><summary><strong>Why are descriptors not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Because property is sufficient for everyday use.
+&nbsp;&nbsp;&nbsp;&nbsp;Because property decorator is sufficient for everyday use.
 </details><br>
