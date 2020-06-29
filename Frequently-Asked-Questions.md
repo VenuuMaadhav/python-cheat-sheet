@@ -7,6 +7,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I also keep the Python console open at all times to test a little snippets of code, to check out the available functions of a module using code completion and above all, to use <code>help(&lt;module/object/function/type&gt;)</code> command. If something is still unclear, then I search the Python docs by googling <code>'python docs &lt;module/function&gt;'</code>.
 </details><br>
 
+<details open><summary><strong>What does the '&lt;type&gt;' signify?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;It is a placeholder for an object. It needs to be replaced by an expression, literal or a variable that returns/is of that type.
+</details><br>
+
 <details open><summary><strong>Why the '&lt;type&gt;' semantics?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;It makes examples much less ambiguous.
 </details><br>
