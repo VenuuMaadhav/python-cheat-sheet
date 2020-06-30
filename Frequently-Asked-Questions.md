@@ -16,7 +16,7 @@
 </details><br>
 
 <details open><summary><strong>Why are some basics like <code>'&lt;list&gt; = [&lt;el_1&gt;, &lt;el_2&gt;, ...]'</code> and <code>'&lt;el&gt; = &lt;list&gt;[&lt;int&gt;]'</code> missing?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;This cheatsheet is not intended for complete beginners. This way it can save some valuable space. Nonetheless, it tries to be simple enough to be useful for somebody who completed the introductory course. A nice one-page cheatsheet that can help you get started can be found <b><a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf">here</a></b>.</details><br>
+&nbsp;&nbsp;&nbsp;&nbsp;This cheatsheet is not intended for complete beginners. This way it can save some valuable space. Nonetheless, it tries to be simple enough to be useful for somebody who completed the introductory course. A nice one-page cheatsheet that can help you get started can be found <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf">here</a>.</details><br>
 
 <details open><summary><strong>What exactly is <code>&lt;el&gt;</code>?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;El is short for element and can be any object, but it usually denotes an object that is an item of a collection.
@@ -29,15 +29,15 @@
 </details><br>
 
 <details open><summary><strong>What about PEP 8?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Check out <b><a href="https://google.github.io/styleguide/pyguide.html">Google Style Guide</a></b> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
+&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google Style Guide</a> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
 </details><br>
 
 <details open><summary><strong>Why are import statements, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Check out <b><a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a></b> for a nice overview of the mentioned topics.
+&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of the mentioned topics.
 </details><br>
 
 <details open><summary><strong>Why is Django not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Maybe it will be in the future. For now, here is a nice <b><a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/django.jpg">Django cheatsheet</a></b>.
+&nbsp;&nbsp;&nbsp;&nbsp;Maybe it will be in the future. For now, here is a nice <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/django.jpg">Django cheatsheet</a>.
 </details><br>
 
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
