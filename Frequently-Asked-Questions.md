@@ -32,7 +32,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://google.github.io/styleguide/pyguide.html">Google Style Guide</a> and use <code>Ctrl+Alt+L</code> / <code>⌥⌘L</code> shortcut in PyCharm to automatically reformat code.
 </details><br>
 
-<details open><summary><strong>Why are import statements, virtual environment, tests, packaging and installation not covered?</strong></summary><br>
+<details open><summary><strong>Why are there no blank lines between method definitions?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;This way classes can be copy-pasted into the Python console, which would otherwise raise IndentationError.
+</details><br>
+
+<details open><summary><strong>Why are import statements, virtual environments and tests not covered?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of the mentioned topics.
 </details><br>
 
