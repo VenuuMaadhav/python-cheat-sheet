@@ -40,8 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of the mentioned topics.
 </details><br>
 
-<details open><summary><strong>Why is Django not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Maybe it will be in the future. For now, here is a nice <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/django.jpg">Django cheatsheet</a>.
+<details open><summary><strong>Why are Flask and Django not covered?</strong></summary><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Maybe they will be in the future. For now, here is a nice <a href="https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/django.jpg">Django cheatsheet</a>.
 </details><br>
 
 <details open><summary><strong>Why are there no concrete Regex examples?</strong></summary><br>
