@@ -53,7 +53,7 @@
 </details><br>
 
 <details open><summary><strong>Why is staticmethod decorator not covered in Class section?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Because it's of very limited use and is easy to mix up with classmethod.
+&nbsp;&nbsp;&nbsp;&nbsp;Because it is of very limited use and is easy to mix up with classmethod.
 </details><br>
 
 <details open><summary><strong>Why are descriptors not covered?</strong></summary><br>
