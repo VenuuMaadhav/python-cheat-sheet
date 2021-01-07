@@ -37,7 +37,11 @@
 </details><br>
 
 <details open><summary><strong>Why are import statements, virtual environments and tests not covered?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of the mentioned topics.
+&nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of the mentioned topics.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;A quick overview of virtual environments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>python3 -m venv env&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Creates virtual environment in current directory.</code><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>source env/bin/activate&nbsp;&nbsp;# Activates virtual environment.</code><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>deactivate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Deactivates virtual environment.</code><br>
 </details><br>
 
 <details open><summary><strong>Why are Flask and Django not covered?</strong></summary><br>
