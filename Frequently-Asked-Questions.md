@@ -1,5 +1,5 @@
 <details open><summary><strong>Python 2 or Python 3?</strong></summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Python 3.7
+&nbsp;&nbsp;&nbsp;&nbsp;Python 3.7 (or higher).
 </details><br>
 
 <details open><summary><strong>What is the best way to use it?</strong></summary><br>
@@ -36,7 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;This way classes can be copy-pasted into the Python console, which would otherwise raise IndentationError.
 </details><br>
 
-<details open><summary><strong>Why are import statements, virtual environments and tests not covered?</strong></summary><br>
+<details open><summary><strong>Why are virtual environments and tests not covered?</strong></summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Check out <a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a> for a nice overview of the mentioned topics.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;A quick overview of virtual environments in Unix:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>python3 -m venv env&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Creates virtual environment in current directory.</code><br>
